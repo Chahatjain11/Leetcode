@@ -11,7 +11,7 @@ class Solution {
 
     Node[][] t;
 
-    // Find the first interval whose start > current interval's end
+    // first interval whose start > current interval's end
     int findNext(int r) {
         int low = 0;
         int high = n - 1;
@@ -65,10 +65,10 @@ class Solution {
         // Next non-overlapping interval
         int j = nextIdx[i];
 
-        // Option 1: Skip current interval
+        //  Skip current interval
         Node skip = solve(i + 1, k);
 
-        // Option 2: Take current interval
+        //  Take current interval
         Node temp = solve(j, k - 1);
 
         Node take = new Node();
@@ -104,7 +104,7 @@ class Solution {
 
         n = intervalsList.size();
 
-        // Format:
+        
         // [start, end, weight, originalIndex]
         intervals = new int[n][4];
 
@@ -135,17 +135,16 @@ class Solution {
             return a[3] - b[3];
         });
 
-        // Find the next non-overlapping interval for each interval
+        
         nextIdx = new int[n];
 
         for (int i = 0; i < n; i++) {
             nextIdx[i] = findNext(intervals[i][1]);
         }
 
-        // At most 4 intervals can be selected
         final int K = 4;
 
-        // Initialize DP table
+        
         t = new Node[n + 1][K + 1];
 
         for (int i = 0; i <= n; i++) {
@@ -154,10 +153,9 @@ class Solution {
             }
         }
 
-        // Start recursion
+       
         Node res = solve(0, K);
 
-        // Convert List<Integer> into int[]
         int[] ans = new int[res.idxs.size()];
 
         for (int i = 0; i < ans.length; i++) {
