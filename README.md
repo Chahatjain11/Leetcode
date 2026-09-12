@@ -12,6 +12,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Array
 |  |
 | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chahatjain11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -25,4 +26,16 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chahatjain11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
