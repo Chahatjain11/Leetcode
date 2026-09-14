@@ -48,4 +48,12 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
