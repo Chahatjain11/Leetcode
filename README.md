@@ -39,6 +39,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Dynamic Programming
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -78,6 +79,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chahatjain11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0132-palindrome-partitioning-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
