@@ -4,7 +4,7 @@ class Solution {
         int n=s.length();
         int dp[]=new int[n];
         Arrays.fill(dp,-1);
-         return solve(0,s,dp)-1;
+         return solve(0,s,dp)-1;//cuts=pieces-1
          }
     private boolean isPalindrome(int i,int j,String s){
         while(i<j){
