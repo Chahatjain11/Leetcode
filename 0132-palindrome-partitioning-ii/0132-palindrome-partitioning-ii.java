@@ -1,0 +1,36 @@
+import java.util.Arrays;
+class Solution {
+    public int minCut(String s) {
+        int n=s.length();
+        int dp[]=new int[n];
+        Arrays.fill(dp,-1);
+         return solve(0,s,dp)-1;
+         }
+    private boolean isPalindrome(int i,int j,String s){
+        while(i<j){
+            if(s.charAt(i)!=s.charAt(j)){
+                return false;
+            }
+            i++;
+            j--;
+        }return true;
+    }
+    private int solve(int i,String s,int[] dp){
+        int n=s.length();
+        if(i==n){
+            return 0;
+        }
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+        int minPieces=Integer.MAX_VALUE;
+
+        for(int j=i;j<n;j++){
+            if(isPalindrome(i,j,s)){
+                int pieces=1+solve(j+1,s,dp);
+                minPieces=Math.min(minPieces,pieces);
+                }
+        }
+                return dp[i]=minPieces;
+    }
+}
