@@ -14,6 +14,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0835-image-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0835-image-overlap) |
@@ -56,6 +57,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0835-image-overlap) |
 ## Backtracking
 |  |
@@ -63,6 +65,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chahatjain11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Math
@@ -87,6 +90,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chahatjain11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -107,4 +111,8 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
