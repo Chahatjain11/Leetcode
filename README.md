@@ -12,6 +12,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Chahatjain11/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
@@ -27,6 +28,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chahatjain11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chahatjain11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -60,12 +62,14 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0835-image-overlap) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chahatjain11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Chahatjain11/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
@@ -126,9 +130,14 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Chahatjain11/Leetcode/tree/master/0051-n-queens) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Chahatjain11/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
