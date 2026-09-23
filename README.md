@@ -102,6 +102,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Chahatjain11/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Chahatjain11/Leetcode/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Chahatjain11/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
 | ------- |
