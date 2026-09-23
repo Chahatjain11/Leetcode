@@ -38,6 +38,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Chahatjain11/Leetcode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chahatjain11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -83,6 +84,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Chahatjain11/Leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chahatjain11/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chahatjain11/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -98,6 +100,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | ------- |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Chahatjain11/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
