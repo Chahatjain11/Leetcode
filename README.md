@@ -100,6 +100,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | ------- |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Chahatjain11/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Chahatjain11/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -154,4 +155,8 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Chahatjain11/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Chahatjain11/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
