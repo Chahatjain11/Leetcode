@@ -1,18 +1,12 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int ans=0;
-        for(int bitIndex=0;bitIndex<=31;bitIndex++){
-            int count=0;//bit 1 kha h
-            for(int i=0;i<nums.length;i++){
-                if((nums[i] & (1<<bitIndex))!=0){
-                    count++;
-                }
-            }if(count%3==1){//three times diya h q mei
-            ans=ans | (1<<bitIndex);
-
+        Arrays.sort(nums);
+        int n=nums.length;
+        for(int i=1;i<n;i=i+3){
+            if(nums[i]!=nums[i-1]){
+                return nums[i-1];
             }
-
-        }return ans;
-        
+        }
+        return nums[n-1];
     }
 }
