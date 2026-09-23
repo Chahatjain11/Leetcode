@@ -21,6 +21,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0216-combination-sum-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0835-image-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chahatjain11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Chahatjain11/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -32,6 +33,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chahatjain11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -45,6 +47,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -121,10 +124,12 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chahatjain11/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
