@@ -1,17 +1,26 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        HashMap<Integer,Integer> mp=new HashMap<>();
-        for(int num:nums){
-            mp.put(num,mp.getOrDefault(num,0)+1);
+        //sabhi duplicate no ko sparte krnge
+      int xor=0;
+      for(int num:nums){
+        xor=xor^num;
+      }
+      //ab dono uniqure no ko spearte krna h
+      //rightmost bit find krnge
+      //esa bit jaha dono no unique hoske
+      int rightmost=(xor & (xor-1))^xor;
+
+      int bucket1=0;
+      int bucket2=0;
+
+      //har no ko 2 bucket mie divide kro
+      for(int num:nums){
+        if((num & rightmost)!=0){
+            bucket1=bucket1^num;
+        }else{
+            bucket2=bucket2^num;
         }
-        int[] ans=new int[2];
-        int index=0;//ans array mein kis position par next unique number rakhna hai, ye track karne ke liye hai
-        for(int num:nums){
-            if(mp.get(num)==1){
-                ans[index]=num;
-                index++;
-            }
-        }return ans;
-        
+      }return new int[]{bucket1,bucket2};
     }
 }
+
