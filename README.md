@@ -95,6 +95,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Chahatjain11/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Chahatjain11/Leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chahatjain11/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -110,6 +111,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Chahatjain11/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0137-single-number-ii) |
