@@ -60,6 +60,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0022-generate-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chahatjain11/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -84,6 +85,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chahatjain11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Chahatjain11/Leetcode/tree/master/0051-n-queens) |
@@ -128,6 +130,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chahatjain11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1096-brace-expansion-ii](https://github.com/Chahatjain11/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -198,6 +201,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chahatjain11/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
