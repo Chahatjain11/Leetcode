@@ -23,6 +23,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0260-single-number-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [0835-image-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/Chahatjain11/Leetcode/tree/master/0860-lemonade-change) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chahatjain11/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -150,6 +151,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Chahatjain11/Leetcode/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
