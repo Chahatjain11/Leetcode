@@ -101,6 +101,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0231-power-of-two](https://github.com/Chahatjain11/Leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chahatjain11/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/Chahatjain11/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chahatjain11/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/Chahatjain11/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Chahatjain11/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -120,6 +121,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0191-number-of-1-bits](https://github.com/Chahatjain11/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Chahatjain11/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0260-single-number-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Chahatjain11/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Chahatjain11/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
