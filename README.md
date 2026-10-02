@@ -21,6 +21,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0137-single-number-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [0835-image-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -71,6 +72,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/Chahatjain11/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -126,6 +128,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -146,6 +149,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -208,4 +212,8 @@ This repository documents my continuous practice in problem-solving and preparat
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chahatjain11/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
