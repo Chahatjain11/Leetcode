@@ -110,6 +110,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [3524-find-x-value-of-array-i](https://github.com/Chahatjain11/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Chahatjain11/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chahatjain11/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Chahatjain11/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
 |  |
 | ------- |
@@ -156,6 +157,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0860-lemonade-change](https://github.com/Chahatjain11/Leetcode/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Chahatjain11/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Combinatorics
 |  |
 | ------- |
