@@ -15,6 +15,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0037-sudoku-solver](https://github.com/Chahatjain11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Chahatjain11/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Chahatjain11/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
@@ -66,6 +67,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Chahatjain11/Leetcode/tree/master/0055-jump-game) |
 | [0132-palindrome-partitioning-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chahatjain11/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -155,6 +157,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Chahatjain11/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Chahatjain11/Leetcode/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
