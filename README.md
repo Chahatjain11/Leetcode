@@ -22,6 +22,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0137-single-number-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [0835-image-overlap](https://github.com/Chahatjain11/Leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Chahatjain11/Leetcode/tree/master/0860-lemonade-change) |
@@ -69,6 +70,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0032-longest-valid-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Chahatjain11/Leetcode/tree/master/0055-jump-game) |
 | [0132-palindrome-partitioning-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chahatjain11/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chahatjain11/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -78,6 +80,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/Chahatjain11/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -158,6 +161,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Chahatjain11/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Chahatjain11/Leetcode/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chahatjain11/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
