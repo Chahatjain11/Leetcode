@@ -16,6 +16,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Chahatjain11/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Chahatjain11/Leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Chahatjain11/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
