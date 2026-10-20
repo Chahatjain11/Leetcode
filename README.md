@@ -16,6 +16,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0040-combination-sum-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Chahatjain11/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Chahatjain11/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Chahatjain11/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Chahatjain11/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
@@ -85,6 +86,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/Chahatjain11/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -242,6 +244,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 ## Binary Indexed Tree
 |  |
