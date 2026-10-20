@@ -228,6 +228,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Chahatjain11/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1096-brace-expansion-ii](https://github.com/Chahatjain11/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chahatjain11/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -283,4 +284,12 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Chahatjain11/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Chahatjain11/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Chahatjain11/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
