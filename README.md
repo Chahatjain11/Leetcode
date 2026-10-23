@@ -168,6 +168,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0032-longest-valid-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Chahatjain11/Leetcode/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0402-remove-k-digits](https://github.com/Chahatjain11/Leetcode/tree/master/0402-remove-k-digits) |
 | [1096-brace-expansion-ii](https://github.com/Chahatjain11/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chahatjain11/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -180,6 +181,7 @@ This repository documents my continuous practice in problem-solving and preparat
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Chahatjain11/Leetcode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Chahatjain11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Chahatjain11/Leetcode/tree/master/0860-lemonade-change) |
@@ -238,6 +240,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0032-longest-valid-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Chahatjain11/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chahatjain11/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Chahatjain11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Chahatjain11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Chahatjain11/Leetcode/tree/master/0735-asteroid-collision) |
@@ -311,6 +314,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Chahatjain11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Chahatjain11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chahatjain11/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
