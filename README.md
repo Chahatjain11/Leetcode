@@ -36,6 +36,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chahatjain11/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chahatjain11/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/Chahatjain11/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chahatjain11/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Chahatjain11/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chahatjain11/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -245,6 +246,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chahatjain11/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chahatjain11/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Chahatjain11/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -312,4 +314,5 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0496-next-greater-element-i](https://github.com/Chahatjain11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chahatjain11/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Chahatjain11/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
