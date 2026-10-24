@@ -1,5 +1,6 @@
 class MinStack {
-    Stack <Pair<Integer,Integer>>st=new Stack<>();
+    Stack <Long>st=new Stack<>();
+    long min;
 
 
     public MinStack() {
@@ -8,41 +9,41 @@ class MinStack {
     
     public void push(int value) {
         if(st.isEmpty()){
-            st.push(new Pair<>(value,value));
-        }else{
-            int currentMin=st.peek().getValue();
-            int newMin=Math.min(currentMin,value);//min between new value and prev min
-            st.push(new Pair<>(value,newMin));//store actual value,min got so far
+            min=value;
+            st.push((long)value);
+        }else if(value>=min){
+            st.push((long)value);
+        }else {
+            long encoded=2L*value-min;
+            st.push(encoded);
+            min=value;
         }
-        
-    }
+     }
     
     public void pop() {
-        st.pop();
+       if(st.isEmpty()){
+        return;
+       }long x=st.pop();
+       if(x<min){
+        min=2L*min-x;
+       }
         
     }
     
     public int top() {
-        return st.peek().getKey();
+        if(st.isEmpty()){
+            return -1;
+        }long x=st.peek();
+        if(x<min){
+            return(int)min;
+        }return(int)x;
         
     }
     
     public int getMin() {
-        return st.peek().getValue();
+        if(st.isEmpty()){
+            return -1;
+        }return(int)min;
         
-    }
-}
-class Pair<K,V>{
-    private K key;
-    private V value;
-    public Pair(K key, V value){
-        this.key=key;
-        this.value=value;
-    }
-    public K getKey(){
-        return key;
-    }
-    public V getValue(){
-        return value;
     }
 }
