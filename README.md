@@ -23,6 +23,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0090-subsets-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/Chahatjain11/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Chahatjain11/Leetcode/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Chahatjain11/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Chahatjain11/Leetcode/tree/master/0455-assign-cookies) |
@@ -203,6 +204,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Chahatjain11/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chahatjain11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chahatjain11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Depth-First Search
@@ -301,6 +303,7 @@ This repository documents my continuous practice in problem-solving and preparat
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Chahatjain11/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Chahatjain11/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
@@ -313,6 +316,7 @@ This repository documents my continuous practice in problem-solving and preparat
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Chahatjain11/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chahatjain11/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Chahatjain11/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -321,4 +325,12 @@ This repository documents my continuous practice in problem-solving and preparat
 | [0503-next-greater-element-ii](https://github.com/Chahatjain11/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chahatjain11/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Chahatjain11/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chahatjain11/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chahatjain11/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
